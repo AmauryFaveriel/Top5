@@ -38,3 +38,11 @@ __bold characters__
    * Item 3a
    * Item 3b
    * Item 3c
+
+##List to external website
+
+This is [an example](http://www.example.com/) inline link.
+
+[This link](http://example.com/ "Title") has a title attribute.
+
+Links are also auto-detected in text: http://example.com/
